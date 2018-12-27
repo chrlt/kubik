@@ -9,7 +9,7 @@ $userid = "4690683";
 $sign = "e8d56f3f7dbf43cd6e1381c143f48ddf";
 
 ####################################################
-#|Subscribe: Youtube.com/Segi3Channel
+#|Subscribe: Youtube.com/CHRLT
 #| *Untuk Kolom Token Silahkan Isi
 #|  dengan Code (Authorization)
 #| *untuk aktifitas nuyul multi akun
