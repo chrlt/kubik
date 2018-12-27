@@ -1,12 +1,12 @@
 <?php
-$android_id = "2d7c8xxxxxxxx";
-$deviceCode = "8660cxxxxxxxx";
-$device_ip  = "116.2xxxxxxxx";
-$token = "680atvthz0hMTxxxxxxxxx";
-$tk = "ACBvc-8tqVBNcrExxxxxxxx";
-$uuid = "5e9129e17b53xxxxxxxxxxx";
-$userid = "3953xx";
-$sign = "dda2654011xxxxxxxxxx";
+$android_id = "f1ae1256ecd702f7";
+$deviceCode = "868937037636119";
+$device_ip  = "202.67.46.39";
+$token = "4ba9Kl3b9N9CAct1FErxqCloaTJ1jk4mxNHRwnIKrhLeYSR-Ea-jqbCgovbPGffOPucs9RgCPPAyp80";
+$tk = "ACExTR42E9BIXpZYiaXsdkde-ABNB_F-YkhxdHRodw";
+$uuid = "1d8ec4a46ab44cc4a270d658f65f7403";
+$userid = "4690683";
+$sign = "e8d56f3f7dbf43cd6e1381c143f48ddf";
 
 ####################################################
 #|Subscribe: Youtube.com/Segi3Channel
